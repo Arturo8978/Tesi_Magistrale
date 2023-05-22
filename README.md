@@ -1,6 +1,6 @@
 # Tesi_Magistrale
 
-Codici Arduino per la gestione del microcontrollore Arduino Uno e dei sensori come illustrato nel lavoro di tesi:
+Codici Arduino per la gestione del microcontrollore Arduino Uno, del sensore di temperatura e pressione BMP180 e del potenziometro, così come illustrato nel lavoro di tesi:
 
 - Il file siringa.ino è quello per la gestione del potenziometro e del sensore BMP180 nell'esperienza di Boyle
 (NOTA: la calibrazione del potenziometro è strettamente legata alla geometria della siringa, andrebbe verificata oppure rifatta);
