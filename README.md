@@ -20,7 +20,7 @@ Quasi tutti i componenti sono disponibili su Amazon.it:
 
 - https://amzn.to/43hWfdX (link per l'acquisto di due modulo bluetooth HC05);
 - https://amzn.to/3IASMP4 (link per l'acquisto di tre sensori BMP180 di temperatura e pressione);
-- https://amzn.to/3BPHX8f (link per l'acquisto di cinque potenziometri a slitta da 10Kohm);
+- https://amzn.to/3BPHX8f (link per l'acquisto di cinque potenziometri a slitta da 10Kohm. ATTENZIONE: i potenziometri in questione dovrebbero essere lineare, ma capita spesso che vengono inviati potenziometri logaritmici contrariamente a quanto ripostato nella descrizione. In tal caso è possibile rispedire indietro il prodotto oppure tenere conto di questo fatto ed eseguire una opportuna calibrazione);
 - https://amzn.to/43nlCKU (link per l'acquisto delle basette millefori per il cablaggio dell'hardware come descritto in tesi);
 - https://amzn.to/3OxcEGN (link per l'acquisto della scheda a microcontrollore Arduino Uno, in alternativa è possibili acquistare la scheda arduino nano BLE che comprende già un sistema bluetooth integrato al link https://amzn.to/3IxH3Rt);
 - Una siringa da 50 mL acquistabile in qualsiasi farmacia al prezzo di 2 euro circa;
