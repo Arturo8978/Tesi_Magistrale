@@ -2,12 +2,12 @@
 
 Codici Arduino per la gestione del microcontrollore Arduino Uno, del sensore di temperatura e pressione BMP180 e del potenziometro, così come illustrato nel lavoro di tesi:
 
-- Il file siringa.ino è quello per la gestione del potenziometro e del sensore BMP180 nell'esperienza di Boyle
+- Il file **siringa.ino** è quello per la gestione del potenziometro e del sensore BMP180 nell'esperienza di Boyle
 (NOTA: la calibrazione del potenziometro è strettamente legata alla geometria della siringa, andrebbe verificata oppure rifatta);
 
-- Il file solo_sensore_termometro_gas.ino è il codice arduino per la gestione del solo sensore BMP180 nel caso dell'esperimento del termometro a gas;
+- Il file **solo_sensore_termometro_gas.ino** è il codice arduino per la gestione del solo sensore BMP180 nel caso dell'esperimento del termometro a gas;
 
-- il file sensor_and:BLE.ino è il codice per la gestione del sensore BMP180 e del modulo bluetooth HC05 nell'esperienza della seconda legge di Gay Lussac e nel primo esperimento del termometro a gas.
+- il file **sensor_and:BLE.ino** è il codice per la gestione del sensore BMP180 e del modulo bluetooth HC05 nell'esperienza della seconda legge di Gay Lussac e nel primo esperimento del termometro a gas.
 
 Per il plottaggio dei dati in tempo reale è stato utilizzato il software KST scaricabile al seguente link:
 https://kst-plot.kde.org/download.html
