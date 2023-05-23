@@ -16,7 +16,19 @@ Per la gestione della comunicazione seriale tra scheda ArduinoUno\PC e il salvat
 
 Le informazioni per il settaggio di KST e di RealTerm sono contenute nel terzo capitolo della tesi.
 
-Tutti i componenti sono disponibili su Amazon.it, a breve forniremo i link per chi volesse comprarli per replicare gli esperimenti.
+Quasi tutti i componenti sono disponibili su Amazon.it:
+
+- https://amzn.to/43hWfdX (link per l'acquisto di due modulo bluetooth HC05);
+- https://amzn.to/3IASMP4 (link per l'acquisto di tre sensori BMP180 di temperatura e pressione);
+- https://amzn.to/3BPHX8f (link per l'acquisto di cinque potenziometri a slitta da 10Kohm);
+- https://amzn.to/43nlCKU (link per l'acquisto delle basette millefori per il cablaggio dell'hardware come descritto in tesi);
+- https://amzn.to/3OxcEGN (link per l'acquisto della scheda a microcontrollore Arduino Uno, in alternativa è possibili acquistare la scheda arduino nano BLE che comprende già un sistema bluetooth integrato al link https://amzn.to/3IxH3Rt);
+- Una siringa da 50 mL acquistabile in qualsiasi farmacia al prezzo di 2 euro circa;
+- Tubi in gomma di collegamento da 4/5mm di diamentro interno, acquistabili in ferramenta;
+- Cavo piattino telefonico 4x1 per collegre il potenziometro, acquistabile in negozio di materiale elettrico;
+- Colla a caldo per fissare il potenziometro alla siringa;
+- Valvola di sfiato a 3 vie per l'esperienza di Boyle, acquistabile in farmacia (opzionale).
+
 
 Per dubbi, ulteriori chiarimenti e segnalazione errori contattatemi alla e-mail: fra.guida@outlook.com
 
